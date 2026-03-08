@@ -9,18 +9,15 @@ This is a Learning Backend Project called SPENDWISE (SMART EXPENSE TRACKER).
 
 ##  Table of Contents
 
-1. [Overview](#-overview)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Project Structure](#-project-structure)
-5. [Getting Started](#-getting-started)
-6. [Environment Variables](#-environment-variables)
-7. [API Endpoints](#-api-endpoints)
-8. [Output Screenshots](#-output-screenshots)
-9. [Project Documents](#-project-documents)
-10. [Demo](#-demo)
-
-
+1. [Overview]
+2. [Tech Stack]
+3. [Features]
+4. [Project Structure]
+5. [Getting Started]
+6. [Environment Variables]
+7. [API Endpoints]
+8. [Output Screenshots]
+9. [Project Documents]
 
 ## Overview
 
