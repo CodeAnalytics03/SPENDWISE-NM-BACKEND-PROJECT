@@ -192,15 +192,7 @@ JWT_SECRET=your_super_secret_key
 
 ## 📄 Project Documents
 
-All project documents are available in all phases:
-
-| Document | Description |
-|----------|-------------|
-| [`Solution_Requirements.docx`](./docs/SpendWise_Solution_Requirements.docx) | Functional & Non-Functional Requirements |
-| [`Technology_Stack.docx`](./docs/SpendWise_Technology_Stack.docx) | Architecture, Components & Tech Stack |
-| [`UAT_Report.docx`](./docs/SpendWise_UAT_Report.docx) | User Acceptance Testing — all test cases & sign-off |
-| [`Project_Docs.docx`](./docs/SpendWise_Project_Docs.docx) | Full project documentation with screenshots |
-
+All project documents are available in Phase 1, Phase 2, Phase 3, Phase 4, Phase 5 and SpendWise (Project Docs) these files are in docs format.
 
 ## 📝 License
 
