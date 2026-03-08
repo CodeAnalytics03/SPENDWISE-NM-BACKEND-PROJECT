@@ -1,0 +1,2 @@
+# SPENDWISE-NM-BACKEND-PROJECT
+This is a Learning Backend Project called SPENDWISE (SMART EXPENSE TRACKER).
